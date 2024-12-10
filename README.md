@@ -1,5 +1,9 @@
 # ☻ Hey! I'm Parker Townsend. ☻
 
+I was born in West Texas, where you'll learn the value of hard work very quickly.
+I have been coding since 2022, when I first discovered Javascript. Since then, I have been on a very rewarding journey in the tech world.
+Some of my projects include **Parker's Poker**, **Instrument Dash**, and this **Chatroom App**.
+
 <!--
 **LiterallyParker/LiterallyParker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
