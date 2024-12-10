@@ -2,16 +2,11 @@
 I am a software developer from Lubbock, Texas. I have a strong liking for anything code.
 If a computer can do it, I'll want it to!
 ### Check out these projects I'm working on:
-- **[Parker's Poker](https://github.com/LiterallyParker/Parkers-Poker-V4)**
-- **[Instrument Dash](https://github.com/LiterallyParker/Capstone)**
-- **[Chatroom App](https://github.com/LiterallyParker/ChatApp)**
 
-<!--
-**LiterallyParker/LiterallyParker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on:
+  - **[Parker's Poker](https://github.com/LiterallyParker/Parkers-Poker-V4)**
+  - **[Instrument Dash](https://github.com/LiterallyParker/Capstone)**
+  - **[Chatroom App](https://github.com/LiterallyParker/ChatApp)**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
