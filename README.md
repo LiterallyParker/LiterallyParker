@@ -1,4 +1,4 @@
-# Howdy! My name is Parker Townsend.
+# Hey There! ☻ My name is Parker Townsend.
 
 <!--
 **LiterallyParker/LiterallyParker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
