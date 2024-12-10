@@ -1,9 +1,5 @@
 # ☻ Hey! I'm Parker Townsend. ☻
 
-## I was born in West Texas, where you'll learn the value of hard work very quickly.
-
-## I have been coding since 2022, when I first discovered Javascript. Since then, I have been on a very rewarding journey in the tech world.
-
 ### Check out these projects I'm working on:
 - **[Parker's Poker](https://github.com/LiterallyParker/Parkers-Poker-V4)**
 - **[Instrument Dash](https://github.com/LiterallyParker/Capstone)**
