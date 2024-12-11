@@ -75,6 +75,4 @@ I would love to work for you! Reach out!
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LiterallyParker/LiterallyParker/output/snake.svg" alt="Snake animation" />
-
 ###
