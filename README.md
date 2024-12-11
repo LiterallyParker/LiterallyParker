@@ -11,7 +11,7 @@ If a computer can do it, I'll want it to!
 
   - **[Parker's Poker](https://github.com/LiterallyParker/Parkers-Poker-V4)**
   - **[Instrument Store](https://github.com/LiterallyParker/Capstone)**
-  - **[Chatroom App](https://github.com/LiterallyParker/ChatApp)**
+  - **[Raspberry Pi LED Game](https://github.com/LiterallyParker/ChatApp)**
   
 - Currently learning:
   
