@@ -2,7 +2,7 @@
 
 I am a software developer from Lubbock, Texas.
 
-I specialize in the backend, creating well structured APIs and Databases.
+I specialize in the backend, creating well structured APIs and Databases, as you can tell by my beautiful README.
 
 I have a strong liking for anything code.
 If a computer can do it, I'll want it to!
