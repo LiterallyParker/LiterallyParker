@@ -9,7 +9,7 @@
   <br/>
   If a computer can do it, I'll want it to!
 </div>
-
+<br/>
 <p align="center">Projects in progress:</p>
 
 <div align="center">
