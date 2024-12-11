@@ -17,4 +17,4 @@ If a computer can do it, I'll want it to!
 
 
 
-![funny programmer meme](https://vincentdnl.com/images/blog/programming-memes/semicolon2.jpg)
+![funny programmer meme]([https://vincentdnl.com/images/blog/programming-memes/semicolon2.jpg](https://i.pinimg.com/originals/a9/e5/06/a9e506364ae6b6892e6a126a2f021206.gif))
