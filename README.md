@@ -27,12 +27,6 @@
   <br/>
   This was a passion project, created with a Raspberry Pi and an Xbox controller.
 </div>
-  
-- Currently learning:
-
-  - C++
-  - Sequelize
-  - Bash
 
 I would love to work for you! Reach out!
 
