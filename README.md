@@ -32,7 +32,7 @@ I would love to work for you! Reach out!
 
 ###
 
-<img align="center" height="150" src="https://i.gifer.com/origin/0f/0fd379b81bc8023064986c9c45f22253_w200.gif"  />
+<img align="right" height="150" src="https://i.gifer.com/origin/0f/0fd379b81bc8023064986c9c45f22253_w200.gif"  />
 
 ###
 
