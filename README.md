@@ -3,11 +3,11 @@
 <div align="center">
   I am a software engineer from Lubbock, Texas.
   <br/>
-  <p>I specialize in the backend, creating well structured APIs and Databases.</p>
+  I specialize in the backend, creating well structured APIs and Databases.
   <br/>
-  <p>I have a strong liking for anything code.</p>
+  I have a strong liking for anything code.
   <br/>
-  <p>If a computer can do it, I'll want it to!</p>
+  If a computer can do it, I'll want it to!
 </div>
 
 <p align="center">Projects in progress:</p>
