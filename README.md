@@ -6,7 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/LiterallyParker/Parkers-Poker-V4">Parker's Poker</a>
+  <br/>
   <a href="https://github.com/LiterallyParker/Capstone">Instrument Store</a>
+  <br/>
   <a href="https://github.com/LiterallyParker/RPi_Reaction">Raspberry Pi LED Game</a>
 </div>
   
