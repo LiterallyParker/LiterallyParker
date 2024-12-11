@@ -32,11 +32,11 @@ I would love to work for you! Reach out!
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/origin/0f/0fd379b81bc8023064986c9c45f22253_w200.gif"  />
+<img align="center" height="150" src="https://i.gifer.com/origin/0f/0fd379b81bc8023064986c9c45f22253_w200.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
