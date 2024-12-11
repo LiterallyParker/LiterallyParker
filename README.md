@@ -10,7 +10,7 @@ If a computer can do it, I'll want it to!
 - Projects in progress:
 
   - **[Parker's Poker](https://github.com/LiterallyParker/Parkers-Poker-V4)**
-  - **[Instrument Dash](https://github.com/LiterallyParker/Capstone)**
+  - **[Instrument Store](https://github.com/LiterallyParker/Capstone)**
   - **[Chatroom App](https://github.com/LiterallyParker/ChatApp)**
   
 - Currently learning:
