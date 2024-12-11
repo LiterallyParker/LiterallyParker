@@ -4,7 +4,7 @@
 
 <p align="center">Projects in progress:</p>
 
-  <a align=center href="https://github.com/LiterallyParker/Parkers-Poker-V4">Parker's Poker</a>
+  <a align="center" href="https://github.com/LiterallyParker/Parkers-Poker-V4">Parker's Poker</a>
   <p>**[Instrument Store](https://github.com/LiterallyParker/Capstone)**</p>
   <p>**[Raspberry Pi LED Game](https://github.com/LiterallyParker/RPi_Reaction)**</p>
   
