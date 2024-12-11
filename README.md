@@ -1,6 +1,6 @@
 # ☻ Hey! I'm Parker Townsend. ☻
 
-<p>I am a software engineer from Lubbock, Texas.<p\>
+<p align="center">I am a software engineer from Lubbock, Texas.<p\>
 
 I specialize in the backend, creating well structured APIs and Databases, as you can tell by my beautiful README.
 
