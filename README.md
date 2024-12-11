@@ -17,9 +17,11 @@
   <br/>
   This is a simple card dealer, the goal is to turn it into a fully online multiplayer expirience!
   <br/>
+  <br/>
   <a href="https://github.com/LiterallyParker/Capstone">Instrument Store</a>
   <br/>
   This was my Final for Fullstack Acadamy, where I learned the PERN stack.
+  <br/>
   <br/>
   <a href="https://github.com/LiterallyParker/RPi_Reaction">Raspberry Pi LED Game</a>
   <br/>
