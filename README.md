@@ -10,7 +10,7 @@
   If a computer can do it, I'll want it to!
 </div>
 <br/>
-<h2>Projects in progress:</h2>
+<h2 align="center">Projects in progress:</h2>
 
 <div align="center">
   <a href="https://github.com/LiterallyParker/Parkers-Poker-V4">Parker's Poker</a>
