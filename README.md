@@ -1,12 +1,12 @@
 <h1 align="center">Hey! I'm Parker Townsend</h1>
 
-<p align="center">I am a software engineer from Lubbock, Texas. I specialize in the backend, creating well structured APIs and Databases.I have a strong liking for anything code. If a computer can do it, I'll want it to!</p>
+<p align="center">I am a software engineer from Lubbock, Texas. I specialize in the backend, creating well structured APIs and Databases. I have a strong liking for anything code. If a computer can do it, I'll want it to!</p>
 
 <p align="center">Projects in progress:</p>
 
-  - **[Parker's Poker](https://github.com/LiterallyParker/Parkers-Poker-V4)**
-  - **[Instrument Store](https://github.com/LiterallyParker/Capstone)**
-  - **[Raspberry Pi LED Game](https://github.com/LiterallyParker/RPi_Reaction)**
+  <p>**[Parker's Poker](https://github.com/LiterallyParker/Parkers-Poker-V4)**</p>
+  <p>**[Instrument Store](https://github.com/LiterallyParker/Capstone)**</p>
+  <p>**[Raspberry Pi LED Game](https://github.com/LiterallyParker/RPi_Reaction)**</p>
   
 - Currently learning:
 
