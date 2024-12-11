@@ -14,3 +14,5 @@ If a computer can do it, I'll want it to!
   - C++
   - Sequelize
   - Bash
+
+I would love to work for you! Reach out!
