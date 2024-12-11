@@ -7,7 +7,7 @@
 <p align="center">I have a strong liking for anything code.</p>
 <p align="center">If a computer can do it, I'll want it to!</p>
 
-- Projects in progress:
+<p align="center">Projects in progress:</p>
 
   - **[Parker's Poker](https://github.com/LiterallyParker/Parkers-Poker-V4)**
   - **[Instrument Store](https://github.com/LiterallyParker/Capstone)**
