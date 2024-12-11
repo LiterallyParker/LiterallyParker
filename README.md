@@ -1,4 +1,4 @@
-# ☻ Hey! I'm Parker Townsend. ☻
+<h1 align="center">☻ Hey! I'm Parker Townsend. ☻<h1\>
 
 <p align="center">I am a software engineer from Lubbock, Texas.<p\>
 
@@ -14,7 +14,7 @@ If a computer can do it, I'll want it to!
   - **[Raspberry Pi LED Game](https://github.com/LiterallyParker/RPi_Reaction)**
   
 - Currently learning:
-  
+
   - C++
   - Sequelize
   - Bash
