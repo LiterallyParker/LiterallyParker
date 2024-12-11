@@ -15,4 +15,6 @@ If a computer can do it, I'll want it to!
   - Sequelize
   - Bash
 
+
+
 ![funny programmer meme](https://vincentdnl.com/images/blog/programming-memes/semicolon2.jpg)
