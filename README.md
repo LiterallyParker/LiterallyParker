@@ -4,8 +4,7 @@
 
 <p align="center">I specialize in the backend, creating well structured APIs and Databases, as you can tell by my beautiful README.</p>
 
-<p align="center">I have a strong liking for anything code.</p>
-<p align="center">If a computer can do it, I'll want it to!</p>
+<p align="center">I have a strong liking for anything code.\nIf a computer can do it, I'll want it to!</p>
 
 <p align="center">Projects in progress:</p>
 
