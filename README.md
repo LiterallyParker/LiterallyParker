@@ -2,10 +2,10 @@
 
 <p align="center">I am a software engineer from Lubbock, Texas.</p>
 
-I specialize in the backend, creating well structured APIs and Databases, as you can tell by my beautiful README.
+<p align="center">I specialize in the backend, creating well structured APIs and Databases, as you can tell by my beautiful README.</p>
 
-I have a strong liking for anything code.
-If a computer can do it, I'll want it to!
+<p align="center">I have a strong liking for anything code.</p>
+<p align="center">If a computer can do it, I'll want it to!</p>
 
 - Projects in progress:
 
@@ -20,8 +20,6 @@ If a computer can do it, I'll want it to!
   - Bash
 
 I would love to work for you! Reach out!
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
