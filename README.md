@@ -28,8 +28,6 @@
   This was a passion project, created with a Raspberry Pi and an Xbox controller.
 </div>
 
-I would love to work for you! Reach out!
-
 ###
 
 <div align="center">
