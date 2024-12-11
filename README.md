@@ -1,6 +1,8 @@
 <h1 align="center">Hey! I'm Parker Townsend</h1>
 
-<p align="center">I am a software engineer from Lubbock, Texas. I specialize in the backend, creating well structured APIs and Databases. I have a strong liking for anything code. If a computer can do it, I'll want it to!</p>
+<div align="center">
+<p>I am a software engineer from Lubbock, Texas.</p><p>I specialize in the backend, creating well structured APIs and Databases. I have a strong liking for anything code. If a computer can do it, I'll want it to!</p>
+</div>
 
 <p align="center">Projects in progress:</p>
 
