@@ -28,9 +28,9 @@
   This was a passion project, created with a Raspberry Pi and an Xbox controller.
   <br/>
   <br/>
-  <a href="https://github.com/LiterallyParker/RPi_Reaction">Raspberry Pi LED Game</a>
+  <a href="https://github.com/LiterallyParker/MouseMazeMatrix">A mouse solving a maze</a>
   <br/>
-  This was a passion project, created with a Raspberry Pi and an Xbox controller.
+  He really wants the cheese! Using python and 2d matricies
 </div>
 
 ###
