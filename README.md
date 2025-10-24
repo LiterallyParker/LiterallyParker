@@ -10,7 +10,6 @@
   If a computer can do it, I'll want it to!
 </div>
 <br/>
-<h2 align="center">Projects in progress:</h2>
 
 ###
 
