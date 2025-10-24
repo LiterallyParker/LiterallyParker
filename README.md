@@ -12,27 +12,6 @@
 <br/>
 <h2 align="center">Projects in progress:</h2>
 
-<div align="center">
-  <a href="https://github.com/LiterallyParker/Parkers-Poker-V4">Parker's Poker</a>
-  <br/>
-  This is a simple card dealer, the goal is to turn it into a fully online multiplayer expirience!
-  <br/>
-  <br/>
-  <a href="https://github.com/LiterallyParker/Capstone">Instrument Store</a>
-  <br/>
-  This was my Final for Fullstack Acadamy, where I learned the PERN stack.
-  <br/>
-  <br/>
-  <a href="https://github.com/LiterallyParker/RPi_Reaction">Raspberry Pi LED Game</a>
-  <br/>
-  This was a passion project, created with a Raspberry Pi and an Xbox controller.
-  <br/>
-  <br/>
-  <a href="https://github.com/LiterallyParker/MouseMazeMatrix">A mouse solving a maze</a>
-  <br/>
-  He really wants the cheese! Using python and 2d matricies
-</div>
-
 ###
 
 <div align="center">
