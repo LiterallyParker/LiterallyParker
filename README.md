@@ -1,11 +1,3 @@
-
-<h1 align="center">Parker Townsend</h1>
-
-<div align="center">
-  Software engineer from Lubbock, Texas
-</div>
-<br/>
-
 ###
 
 <div align="center">
