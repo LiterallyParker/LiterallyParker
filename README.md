@@ -23,3 +23,4 @@ I build practical, well-architected software. My background spans the PERN stack
 
 ### 📫 Connect
 Feel free to explore my repos or open an issue—always open to discussion and collaboration.
+https://www.linkedin.com/in/parker-townsend-2907aa30a/
